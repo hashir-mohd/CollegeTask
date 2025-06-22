@@ -1,0 +1,5 @@
+{
+  "name": "Student Data Sharing App",
+  "description": "An application to generate shareable links for student data, featuring an admin panel for link generation and a public page to view data via these links.",
+  "requestFramePermissions": []
+}
